@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![CoCotrace](https://img.shields.io/badge/CoCotrace-github-blue?logo=github)](https://github.com/CoCotrace)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+喜欢动脑做有趣的、有挑战的事，曾在上海专升本考试中排名前十考入上海第二工业大学攻读计算机科学与技术专业。近期主要学习java开发，以独立完成[苍穹外卖](https://www.bilibili.com/video/BV1TP411v7v6/?spm_id_from=333.337.search-card.all.click)项目为目标。
 
-#### Contact
+#### Email
 
-Email: senli[at]fas.harvard.edu
+wchsjzz@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+2025-2027,上海第二工业大学,计算机科学与技术,学士
+
+2022-2025,上海思博职业技术学院,大数据技术,专科
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Java开发,深度学习,人工智能
 
